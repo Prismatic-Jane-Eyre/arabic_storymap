@@ -7,7 +7,3 @@ The aim of the Covers Maps is to focus attention on the covers while also making
 Often, the covers presented in the Covers Maps represent only one or a few of several editions through which a given translation has passed. Fuller information about first and other editions can be found in the World Map and the General Map. Authorship of each Covers Map is indicated on the map itself; in addition, Erin Reynolds provided research assistance for all of them.
 
 For details of the translations quoted, and discussion, see Matthew Reynolds et al., Prismatic Jane Eyre: Close-Reading a World Novel Across Languages (Cambridge: Open Book, 2023). https://doi.org/10.11647/OBP.0319
-
-<iframe src="https://digitalkoine.github.io/arabic_storymap/" frameborder="0" width="100%" height="800"></iframe>
-
-[![Follow Mohamed El-Qassas GitHub]([https://avatars.githubusercontent.com/u/49816567?s=96&v=4](https://digitalkoine.github.io/arabic_storymap/))](https://github.com/melqassas/)
