@@ -9,3 +9,5 @@ Often, the covers presented in the Covers Maps represent only one or a few of se
 For details of the translations quoted, and discussion, see Matthew Reynolds et al., Prismatic Jane Eyre: Close-Reading a World Novel Across Languages (Cambridge: Open Book, 2023). https://doi.org/10.11647/OBP.0319
 
 <iframe src="https://digitalkoine.github.io/arabic_storymap/" frameborder="0" width="100%" height="800"></iframe>
+
+<iframe src="https://uploads.knightlab.com/storymapjs/63e59d585135787e1ee85f1aab344b68/arancino-a-journey-inside-the-italian-cuisine/index.html" frameborder="0" width="100%" height="800"></iframe>
