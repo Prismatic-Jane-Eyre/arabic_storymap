@@ -10,4 +10,4 @@ For details of the translations quoted, and discussion, see Matthew Reynolds et 
 
 <iframe src="https://digitalkoine.github.io/arabic_storymap/" frameborder="0" width="100%" height="800"></iframe>
 
-<iframe src="https://uploads.knightlab.com/storymapjs/63e59d585135787e1ee85f1aab344b68/arancino-a-journey-inside-the-italian-cuisine/index.html" frameborder="0" width="100%" height="800"></iframe>
+[![Follow Mohamed El-Qassas GitHub](https://avatars.githubusercontent.com/u/49816567?s=96&v=4)](https://github.com/melqassas/)
