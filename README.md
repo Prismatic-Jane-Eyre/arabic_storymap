@@ -8,4 +8,4 @@ Often, the covers presented in the Covers Maps represent only one or a few of se
 
 For details of the translations quoted, and discussion, see Matthew Reynolds et al., Prismatic Jane Eyre: Close-Reading a World Novel Across Languages (Cambridge: Open Book, 2023). https://doi.org/10.11647/OBP.0319
 
-
+[Embed Title](https://youtu.be/8bh238ekw3 "@embed")
